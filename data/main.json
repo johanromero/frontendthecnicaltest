@@ -1,0 +1,255 @@
+﻿{
+
+  "header": [
+    {
+      "id": "a1",
+      "content": "about"
+    },
+    {
+      "id": "a2",
+      "content": "work"
+    },
+    {
+      "id": "a3",
+      "content": "contact"
+    }
+  ],
+  "component_init": [
+    {
+      "id": "main_p",
+      "content": "We design, produce and deliver brand content."
+    }
+  ],
+  "slide_one": [
+    {
+      "id": "slide-one-h1",
+      "content": "We design, produce and deliver brand content."
+    },
+    {
+      "id": "slide-one-a",
+      "content": "More about Us"
+    }
+  ],
+  "slide_two": [
+    {
+      "id": "slide-two-h1",
+      "content": "The result? Seamless global execution of multiple content types across all markets, without compromising creative quality."
+    },
+    {
+      "id": "slide-two-a",
+      "content": "More about Us"
+    }
+  ],
+  "slide_three": [
+    {
+      "id": "slide-three-h1",
+      "content": "We call this brand logistics™, our new vision for a new content-driven media landscape."
+    },
+    {
+      "id": "slide-three-a",
+      "content": "More about Us"
+    }
+  ],
+  "component_second": [
+    {
+      "id": "comp_sec_h2_a",
+      "content": "BROTHERS"
+    },
+    {
+      "id": "comp_sec_h1",
+      "content": "Launching the their brands."
+    },
+    {
+      "id": "comp_sec_h2_b",
+      "content": " CONSUMER DIGITAL & SOCIAL MEDIA"
+    },
+    {
+      "id": "comp_sec_a",
+      "content": "Learn More"
+    }
+
+  ],
+  "cmp_new_one": [
+    {
+      "id": "cmp_new_one_h3_a",
+      "content": "THOUGHT LEADERSHIP"
+    },
+    {
+      "id": "cmp_new_one_h3_b",
+      "content": "June 21, 2017"
+    },
+    {
+      "id": "cmp_new_one_a",
+      "content": "Nomination for Global Agency of the Year"
+    },
+    {
+      "id": "cmp_new_one_h3_c",
+      "content": "READ MORE"
+    }
+
+  ],
+  "cmp_img_one": [
+    {
+      "id": "cmp_img_one_a",
+      "content": "LEADERSHIP"
+    },
+    {
+      "id": "cmp_img_one_b",
+      "content": "Animal treatment campaing"
+    }
+
+  ],
+  "cmp_img_sec": [
+    {
+      "id": "cmp_img_sec_a",
+      "content": "CONSUMER GOODS"
+    },
+    {
+      "id": "cmp_img_sec_b",
+      "content": "Personal care, and it implication for the future"
+    }
+
+  ],
+  "cmp_new_sec": [
+    {
+      "id": "cmp_new_sec_h3_a",
+      "content": "WORK"
+    },
+    {
+      "id": "cmp_new_sec_h3_b",
+      "content": "Design thinking"
+    },
+    {
+      "id": "cmp_new_sec_a",
+      "content": "RED color is in, and it not a branded color."
+    },
+    {
+      "id": "cmp_new_sec_h3_c",
+      "content": "READ MORE"
+    }
+
+  ],
+  "cmp_news_third": [
+    {
+      "id": "cmp_news_third_h3_a",
+      "content": "INSIGHTS"
+    },
+    {
+      "id": "cmp_news_third_h3_b",
+      "content": "June 19, 2017"
+    },
+    {
+      "id": "cmp_news_third_a",
+      "content": "The D0awn of the Augmented Influence."
+    },
+    {
+      "id": "cmp_news_third_h3_c",
+      "content": "READ MORE"
+    }
+
+  ],
+  "cmp_img_third": [
+    {
+      "id": "cmp_img_third_a",
+      "content": "INSIGHTS"
+    },
+    {
+      "id": "cmp_img_third_b",
+      "content": "2017’s Top Conversation Starter: Care for those in need"
+    }
+
+  ],
+  "div_form": [
+    {
+      "id": "div_form_p",
+      "content": " Hello Tom, \n We want to hear from you. To direct your message to a specific team, please select the appropriate tab below"
+    }
+  ],
+  "div_form_inner": [
+    {
+      "id": "div_form_inner_p",
+      "content": "PERSONAL INFORMATION"
+    },
+    {
+      "id": "div_form_inner_label_a",
+      "content": "NAME"
+    },
+    {
+      "id": "div_form_inner_label_b",
+      "content": "LAST NAME"
+    },
+    {
+      "id": "div_form_inner_opt_a",
+      "content": "Australia"
+    },
+    {
+      "id": "div_form_inner_label_c",
+      "content": "COUNTRY"
+    },
+    {
+      "id": "div_form_inner_label_d",
+      "content": "EMAIL"
+    }
+
+
+  ],
+  "checbox_div": [
+    {
+      "id": "checbox_div_lbl_a",
+      "content": "INTERESTED IN:"
+    },
+    {
+      "id": "checbox_div_lbl_b",
+      "content": "Checkbox label  <input type='checkbox' checked='checked'> <span class='custom_checkbox'></span>"
+    },
+    {
+      "id": "checbox_div_lbl_c",
+      "content": "Option 1 <input type='checkbox' checked='checked'> <span class='custom_checkbox'></span>"
+    },
+    {
+      "id": "checbox_div_lbl_d",
+      "content": "Option 2 <input type='checkbox' checked='checked'> <span class='custom_checkbox'></span>"
+    },
+    {
+      "id": "checbox_div_lbl_e",
+      "content": "Option 3 <input type='checkbox' checked='checked'> <span class='custom_checkbox'></span>"
+    },
+    {
+      "id": "checbox_div_lbl_f",
+      "content": "Option 4 <input type='checkbox' checked='checked'> <span class='custom_checkbox'></span>"
+    },
+    {
+      "id": "checbox_div_lbl_g",
+      "content": "Other option <input type='checkbox' checked='checked'> <span class='custom_checkbox'></span>"
+    }
+
+  ],
+  "footer": [
+    {
+      "id": "footer_a_1",
+      "content": "Showroom"
+    },
+    {
+      "id": "footer_a_2",
+      "content": "Site Map"
+    },
+    {
+      "id": "footer_a_3",
+      "content": "Privacy"
+    },
+    {
+      "id": "footer_a_4",
+      "content": "Accesibility"
+    },
+    {
+      "id": "footer_p_a",
+      "content": "© 2017 MSL. All Rights Reserved."
+    },
+    {
+      "id": "footer_p_b",
+      "content": "We design, produce and deliver brand content across all channels, using the best talent, processes and tools. The result? Seamless global execution of multiple content types across all markets, without compromising creative quality. We call this brand logistics™, our new vision for a new content-driven media landscape."
+
+    }
+  ]
+
+}
